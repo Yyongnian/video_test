@@ -1,0 +1,6 @@
+framework module VRVideoCache {
+  umbrella header "VRVideoCache.h"
+
+  export *
+  module * { export * }
+}

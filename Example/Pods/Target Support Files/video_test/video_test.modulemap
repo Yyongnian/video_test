@@ -1,0 +1,6 @@
+framework module video_test {
+  umbrella header "video_test-umbrella.h"
+
+  export *
+  module * { export * }
+}

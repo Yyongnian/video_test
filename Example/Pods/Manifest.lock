@@ -1,0 +1,16 @@
+PODS:
+  - video_test (0.1.0)
+
+DEPENDENCIES:
+  - video_test (from `../`)
+
+EXTERNAL SOURCES:
+  video_test:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  video_test: 3c80e6af3125b2e89504a67ca5e44df22d9a24f7
+
+PODFILE CHECKSUM: 31d147b4236336a39bed7c2101399285d371ba4d
+
+COCOAPODS: 1.9.3
